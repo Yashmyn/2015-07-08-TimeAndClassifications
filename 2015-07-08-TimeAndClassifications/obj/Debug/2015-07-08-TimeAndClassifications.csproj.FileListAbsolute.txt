@@ -1,0 +1,6 @@
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-08-TimeAndClassifications\2015-07-08-TimeAndClassifications\bin\Debug\2015-07-08-TimeAndClassifications.exe.config
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-08-TimeAndClassifications\2015-07-08-TimeAndClassifications\bin\Debug\2015-07-08-TimeAndClassifications.exe
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-08-TimeAndClassifications\2015-07-08-TimeAndClassifications\bin\Debug\2015-07-08-TimeAndClassifications.pdb
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-08-TimeAndClassifications\2015-07-08-TimeAndClassifications\obj\Debug\2015-07-08-TimeAndClassifications.csprojResolveAssemblyReference.cache
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-08-TimeAndClassifications\2015-07-08-TimeAndClassifications\obj\Debug\2015-07-08-TimeAndClassifications.exe
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-08-TimeAndClassifications\2015-07-08-TimeAndClassifications\obj\Debug\2015-07-08-TimeAndClassifications.pdb
